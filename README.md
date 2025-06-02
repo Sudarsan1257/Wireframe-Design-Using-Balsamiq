@@ -5,8 +5,8 @@
 To design a wireframe diagram for a generic application or website using Balsamiq by creating at least five essential screens—Welcome/Splash, Login/Signup, Home/Dashboard, Content/Product Listing, and Checkout/Contact/Final Action—focusing on layout structure, navigation flow, and UI element placement while keeping the design simple and free of colors or detailed graphics.
 
 # Output:
+![Exp4_page-0001](https://github.com/user-attachments/assets/130896c7-70a6-41a6-a3c4-36fb5f75a503)
 
-![Screenshot 2025-05-30 200452](https://github.com/user-attachments/assets/3a847c54-da50-4f46-8bf5-12007ebaed91)
 
 
 # Result:
